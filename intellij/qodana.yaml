@@ -1,0 +1,7 @@
+version: "1.0"
+projectJDK: corretto-17
+profile:
+  name: empty
+include:
+  - name: KtorOpenApiUpdate
+  - name: KtorOpenApi
