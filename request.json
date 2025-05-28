@@ -1,0 +1,32 @@
+{
+    "repositoryName": "global-configuration",
+    "repositoryUrl": "https://github.com/shmulik-klein/global-configuration",
+    "configurations": [
+        {
+            "id": "intellij",
+            "name": "IntelliJ",
+            "description": "Configurations used for IntelliJ platform based projects",
+            "files": [
+                {
+                    "path": "intellij/qodana.yaml",
+                    "vcsUrl": "https://github.com/shmulik-klein/global-configuration/blob/main/intellij/qodana.yaml",
+                    "checksum": "9e84099ddc3fd6e95a3c5901722c97d4",
+                    "fileType": "QODANA_YAML"
+                }
+            ]
+        },
+        {
+            "id": "ai_platform",
+            "name": "Ai Platform",
+            "description": "Configurations used for AI-platform based projects",
+            "files": [
+                {
+                    "path": "ai_platform/qodana.yaml",
+                    "vcsUrl": "https://github.com/shmulik-klein/global-configuration/blob/main/ai_platform/qodana.yaml",
+                    "checksum": "9e84099ddc3fd6e95a3c5901722c97d4",
+                    "fileType": "QODANA_YAML"
+                }
+            ]
+        }
+    ]
+}
