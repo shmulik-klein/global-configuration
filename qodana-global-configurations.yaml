@@ -7,4 +7,4 @@ configurations:
     - id: ai_platform
       name: Ai Platform
       description: Configurations used for AI-platform based projects
-      qodanaYaml: ai-products/qodana.yaml
+      qodanaYaml: ai_platform/qodana.yaml
